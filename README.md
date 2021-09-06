@@ -3,7 +3,6 @@
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khangdev1998&show_icons=true&locale=en&layout=compact" alt="khangdev1998" />
 </p>
-</p>
 
 
 <p align="center">
@@ -24,7 +23,7 @@
 ✔ I’m currently working on School <br>
 ✔ I’m currently learning HTML/CSS/JS/PUG/SASS/ReactJS - UI/UX<br>
 ✔ I’m looking for help with a software development internship.<br>
-✔ How to reach me khangdev171998@gmail.com<br>
+✔ How to reach me [Facebook](https://www.facebook.com/khang171998/) | [Gmail](mailto:webmaster@example.com)<br>
 ✔ I’m looking for help for learning **Remote Sensing**<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
