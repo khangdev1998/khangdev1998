@@ -1,29 +1,36 @@
-<h1 align="center">Hello 👋, I'm Khang</h1>
-<h3 align="center">A passionate frontend developer from VietNam My full name is Nguyen Duy Khang - Date of birth: January 17, 1998, my hobby is web design, passionate about programming technologies, playing sports, exercising health, playing games like League of Legends, maplesorty. . . Used to be an administrator of pirated movie and comic websites, after a period of maintenance, because there was no money to maintain vps, it was closed.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khangdev1998&label=Profile%20views&color=0e75b6&style=flat" alt="khangdev1998" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **School**
-
-- 🌱 I’m currently learning **HTML/CSS/JS/PUG/SASS/ReactJS - UI/UX**
-
-- 🤝 I’m looking for help with **a software development internship.**
-
-- 📫 How to reach me **khangdev171998@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/khang171998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khang171998" height="30" width="40" /></a>
-<a href="https://instagram.com/khangdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khangdev" height="30" width="40" /></a>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Khang</h1>
+<h3 align="center">I'm a frontend developer</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
+<a href="https://www.facebook.com/akash.chowrasia.908/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@chowrasia_akash1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@chowrasia_akash1" height="30" width="40" /></a>
+<a href="https://leetcode.com/Akash_Chowrasia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akash_chowrasia" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/akash_chowrasia/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="akash_chowrasia" height="30" width="40" /></a>
+ <a href = "mailto: chowrasia.akash08@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+</p>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khangdev1998&show_icons=true&locale=en&layout=compact" alt="khangdev1998" /></p>
+<p align="center">
+  <em>
+    My name is Nguyễn Duy Khang I'm learning front end. I describe myself as a passionate developer who loves coding, open source, and the web platform ❤️. <br>
+    Aside from my job, I like to create and contribute to open source projects.<br>
+    In my free time you can find me longboarding , at the gym, at the beach or on tech meetups and conferences around vietnam.
+  </em> 
+  <br>
+ <b><i>Learning while HOPING & HUSTLING!!!</i></b> 
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khangdev1998&show_icons=true&locale=en" alt="khangdev1998" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-chowrasia&label=Profile%20views&color=0e75b6&style=flat" alt="akash-chowrasia" /> </p>
+<img align="right" width=400px alt="Unicorn" src="https://user-images.githubusercontent.com/79825633/132195192-47007e98-8815-416f-8eb0-f5ef10ae3e6a.png" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khangdev1998&" alt="khangdev1998" /></p>
+<img src="https://i.pinimg.com/originals/b4/93/93/b49393abde681d349774771504f79c38.gif" width="65px">&nbsp;***Talking about Personal Stuffs...***
+
+✔ I’m currently working on School <br>
+✔ I’m currently learning HTML/CSS/JS/PUG/SASS/ReactJS - UI/UX<br>
+✔ I’m looking for help with a software development internship.<br>
+✔ How to reach me khangdev171998@gmail.com<br>
+✔ I’m looking for help for learning **Remote Sensing**<br>
+✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
+
